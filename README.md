@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="cardputer-adv-mirror: Mirror a Cardputer ADV display in any browser over WiFi" width="100%"></p>
+
 # Cardputer ADV — Display Mirror
 
 ![Version](https://img.shields.io/badge/Version-0.1.0-blue)
@@ -249,3 +251,8 @@ python3 tools/gen_web_assets.py && ./tools/pio.sh run -e cardputer-adv
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+<!-- org-footer -->
+---
+
+<p align="center"><sub>Part of <a href="https://github.com/m5stack-lab">m5stack-lab</a> · unofficial M5Stack projects, not affiliated with M5Stack · built by <a href="https://github.com/ry-ops">ry-ops</a></sub></p>
